@@ -1,7 +1,5 @@
 "use client";
 
-//TODO: https://youtu.be/5miHyP6lExg?t=12902
-
 import { FC } from "react";
 import { Alert, AlertDescription, AlertTitle } from "./alert";
 import { Copy, Server } from "lucide-react";
